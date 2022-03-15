@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6cd7c8a_002D047a_002D471f_002D98d8_002Dc50941cfad47/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateWidth" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AF49BAEA-328E-45B9-A1B7-E52072FD8408::net6.0::Albelli.Tests.EntityTests.OrderTests.CalculateWidthSingleReturnsTrue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AF49BAEA-328E-45B9-A1B7-E52072FD8408::net6.0::Albelli.Tests.EntityTests.OrderTests.CalculateMugWidthReturnsFalse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AF49BAEA-328E-45B9-A1B7-E52072FD8408::net6.0::Albelli.Tests.EntityTests.OrderTests.CalculateMugWidthReturnsTrue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
